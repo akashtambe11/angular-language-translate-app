@@ -1,0 +1,11 @@
+.middle-position {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    width: 50vw;
+    margin-top: 50%;
+}
+
+.center {
+    text-align: center;
+}
